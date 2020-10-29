@@ -1,0 +1,25 @@
+body {
+  background-image: url('https://images6.alphacoders.com/107/1072679.jpg')
+}
+h1 {
+  color: white;
+}
+p {
+	color: white;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+p {
+	font-size: 20px;
+}
+
+button {
+	"height:40px;
+	width=300px;
+}
+
+
